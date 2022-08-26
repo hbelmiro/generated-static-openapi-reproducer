@@ -1,4 +1,4 @@
-# This project is a reproducer
+# This project is a reproducer for [this issue](https://github.com/quarkusio/quarkus/issues/27541).
 
 ## How to reproduce the issue
 
